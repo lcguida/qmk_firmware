@@ -55,3 +55,8 @@
 #    define RGB_MATRIX_FRAMEBUFFER_EFFECTS
 
 #endif
+
+/*Home Row Mod*/
+
+#define TAPPING_TERM 200
+#define QUICK_TAP_TERM 0
