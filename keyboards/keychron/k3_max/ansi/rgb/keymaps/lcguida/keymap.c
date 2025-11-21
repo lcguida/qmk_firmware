@@ -30,8 +30,8 @@
 #define HOME_SCLN RGUI_T(KC_SCLN)
 
 // Special keys modifier
-#define HOME_CAPS KC_TAB // CAPS LOCK -> TAB
-#define HOME_TAB KC_ESC // TAB -> ESC
+#define HOME_CAPS KC_ESC // CAPS LOCK -> TAB
+#define HOME_TAB  KC_TAB // TAB -> ESC
 #define HOME_ESC KC_CAPS // ESC -> CAPS LOCK
 #define HOME_RSFT KC_BSPC // Right Shift -> Backspace
 
